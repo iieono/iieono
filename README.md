@@ -1,16 +1,41 @@
-## Hi there 👋
+[ N E T R U N N E R   P R O F I L E ]
 
-<!--
-**iieono/iieono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-Here are some ideas to get you started:
+CODENAME: iieo
+STATUS: [ONLINE]
+LOCATION: [REDACTED]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+[ S K I L L S ]
+
+╔══════════════════╗  ╔══════════════════╗  ╔══════════════════╗
+║ ----------------  ║  ║   ---------      ║  ║  -------------   ║
+║ [------]███████▓▓ ║  ║ [----------]████▓║  ║   [-------]████▓ ║
+║ [--]██████▓▓▓▓▓▓▓ ║  ║ [------]███▓▓▓▓▓ ║  ║   [------]███▓▓▓ ║
+╚══════════════════╝  ╚══════════════════╝  ╚══════════════════╝
+
+[ O B J E C T I V E S ]
+
+► _>
+► /
+► /
+► /
+
+[ C U R R E N T   S T A T U S ]
+
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] **% to next level
+
+[ C O N N E C T ]
+
+╔═══════════════════════════════════════════════════════════════════════╗
+║ UPLINK: https://github.com/iieono                                     ║
+║                                                                       ║
+║                                                                       ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+[ E N D ]
