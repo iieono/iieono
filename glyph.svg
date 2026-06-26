@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="168" viewBox="0 0 300 168" font-family="'Courier New', Menlo, monospace" font-size="24" font-weight="700">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9c2120"/>
+      <stop offset="0.55" stop-color="#d4452f"/>
+      <stop offset="1" stop-color="#f0813f"/>
+    </linearGradient>
+  </defs>
+  <text fill="url(#g)" xml:space="preserve">
+    <tspan x="14" y="38">  __  ____    ___  </tspan>
+    <tspan x="14" y="66"> / / / / /__ / _ \ </tspan>
+    <tspan x="14" y="94">/_/ / / / _ \ | | |</tspan>
+    <tspan x="14" y="122">   / / /  __/ |_| |</tspan>
+    <tspan x="14" y="150">  /_/_/ \___|\___/ </tspan>
+  </text>
+</svg>
